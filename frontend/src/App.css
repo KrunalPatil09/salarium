@@ -12,13 +12,14 @@
     background-image: url(D:\DhruvProgramming\REACT-PROJECT\payrollMenagmentSys\frontend\src\assets\LogoWeb.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+
 }
 
 /* Remove default number input arrows in Chrome, Safari, Edge, Opera */
 .custom-number-input::-webkit-outer-spin-button,
 .custom-number-input::-webkit-inner-spin-button {
   -webkit-appearance: none;
-  margin: 0;
+  margin: 0 auto;
 }
 
 
